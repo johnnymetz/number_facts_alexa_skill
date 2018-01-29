@@ -1,0 +1,8 @@
+RandomNumberFactIntent Random
+RandomNumberFactIntent Random fact
+RandomNumberFactIntent Give me a random fact
+
+SpecifiedNumberFactIntent {number}
+SpecifiedNumberFactIntent Fact for {number}
+SpecifiedNumberFactIntent {number} is the number
+SpecifiedNumberFactIntent Give me {number}

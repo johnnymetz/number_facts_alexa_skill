@@ -1,0 +1,9 @@
+welcome: |
+  <speak>
+    Welcome to Number Facts.
+    Tell me a number or say random.
+  </speak>
+welcome_reprompt: Tell me a number or say random.
+number_error: I didn't get that. Tell me a number or say random.
+help: Tell me a number or say random and I'll tell you a cool number fact.
+bye: Goodbye
