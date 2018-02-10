@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "numbergeek.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "number-fact-ale",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-tqythz9ti"
+    }
+}
